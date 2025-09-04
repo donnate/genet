@@ -77,13 +77,17 @@ print("Training score:", gen.score(X, y))
 
 ## 📖 Documentation
 
-- The genet.estimators module contains:
-    - GenElasticNetEstimator (GEN penalty)
-    - FusedLassoEstimator, SmoothedLassoEstimator, GTVEstimator
-- The genet.solvers module contains:
-    - ip_solver,
-    - admm_solver,
-    - cgd_solver
+### Estimators
+- **GenElasticNetEstimator**: Generalized Elastic Net penalty
+- **FusedLassoEstimator**
+- **SmoothedLassoEstimator**
+- **GTVEstimator**
+
+### Solvers
+- **ip_solver**
+- **admm_solver**
+- **cgd_solver**
+
 
 Example notebooks are provided in the notebooks/ folder.
 
