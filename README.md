@@ -31,11 +31,11 @@ This will install:
 ### Using conda
 
 You can also create a clean conda environment:
-
+```
 conda create -n genet python=3.10 -y
 conda activate genet
 pip install -e ".[dev]
-
+```
 
 
 ## 🧪 Testing
