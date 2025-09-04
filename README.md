@@ -98,6 +98,8 @@ Example notebooks are provided in the notebooks/ folder.
 
 - Extend support to Tweedie GLMs
 
+- Check the GLM implementation (currently under development)
+
 - More visualization utilities
 
 ## 🤝 Contributing
